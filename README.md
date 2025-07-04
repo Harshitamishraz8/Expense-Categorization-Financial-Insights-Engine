@@ -48,7 +48,9 @@ Date,Description,Amount,Transaction Type,Category
 ## 💬 Chatbot Sample Queries
 
 > 💬 What did I spend on Amazon?
+
 > 💬 How much did I spend on food last month?
+
 > 💬 Show my expenses in May 2024
 
 ---
